@@ -285,3 +285,83 @@ img {
     grid-column: 4/6;
     grid-row: 3/5;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.menu a:hover{ 
+    transform: scale(1.2);
+    color: lightskyblue;
+}
+
+.menu a:active{
+    transform: scale(0.95);
+}
+
+
+
+
+
+.btn:hover{
+    transform: scale(1.1);
+}
+
+.btn:active{
+    transform: scale(0.97);
+}
+
+
+
+.tour_item:active{
+    transform: scale(0.95);
+
+    transition: 0.2s;
+}
+
+.gallery_grid img:active{
+    transform: scale(0.95);
+}
+
+.exc_text h3:active{
+    transform: scale(0.93);
+}
+
+.container h2:active {
+    transform: scale(0.97);
+}
+
+
+
+
+
+.logo img:hover{
+    transform: scale(1.2);
+}
+
+.logo img:active{
+    transform: scale(0.9);
+}
+
+
+
+
+
+.excursion_item img:active{
+    transform: scale(0.85);
+}
